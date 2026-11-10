@@ -10,7 +10,7 @@
 
 
 ## 2nd Quarter
-- [Project 1](https://github.com/yourusername/repo/blob/main/q2/project1.py)
+- [Canteen Purchase Calculator (PA1-Q2)](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/be405640ac0d884fc1895cefcf78e20eb2f450f5/Q2/Canteen%20Purchase%20Calculator)
 - [Project 2](https://github.com/yourusername/repo/blob/main/q2/project2.py)
 
 ## 3rd Quarter
