@@ -1,7 +1,8 @@
 # cs2_Portfolio_LARANANG
 (1st Quarter Programming Activities)
 - [Secure_registration.py](Q1/secure_registration.py)
-- [Cybersecurity.md](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/b3badf2058c83a38ac093c05b76c40c18d426718/Q1/Cybersecurity.md) 
+- [Cybersecurity.md](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/b3badf2058c83a38ac093c05b76c40c18d426718/Q1/Cybersecurity.md)
+- [Score_checker.md](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/628b94b9b3412add4f74cf187adc065e64a74cbf/Q1/score_checker.md)
 
 
 ## 2nd Quarter
