@@ -2,7 +2,7 @@
 (1st Quarter Programming Activities)
 - [Secure_registration.py](Q1/secure_registration.py)
 - [Cybersecurity.md]
-(Q1/Cybersecurity.md) 
+(https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/b3badf2058c83a38ac093c05b76c40c18d426718/Q1/Cybersecurity.md) 
 
 
 ## 2nd Quarter
