@@ -11,11 +11,5 @@
 
 ## 2nd Quarter
 - [Canteen Purchase Calculator (PA1-Q2)](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/be405640ac0d884fc1895cefcf78e20eb2f450f5/Q2/Canteen%20Purchase%20Calculator)
-- [Project 2](https://github.com/yourusername/repo/blob/main/q2/project2.py)
-
-## 3rd Quarter
-- [Activity 1](q3/activity1.py)
-
-## 4th Quarter
-- [Activity 1](q4/activity1.py)
+- [Student Performance Evaluator (PA2-Q2)](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/08bdb935c32fd8461d30effb53a3c8488cf647a8/Q2/Student%20Performance%20Evaluator)
 
