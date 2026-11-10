@@ -3,6 +3,7 @@
 - [Secure_registration.py](Q1/secure_registration.py)
 - [Cybersecurity.md](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/b3badf2058c83a38ac093c05b76c40c18d426718/Q1/Cybersecurity.md)
 - [Score_checker.md](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/628b94b9b3412add4f74cf187adc065e64a74cbf/Q1/score_checker.md)
+- [Score_checker.py](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/8e42634dc3a4448f77fc9647d763f456969a5f9e/Q1/score_checker.py)
 
 
 ## 2nd Quarter
