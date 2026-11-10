@@ -1,8 +1,9 @@
 # cs2_Portfolio_LARANANG
 (1st Quarter Programming Activities)
 - [Secure_registration.py](Q1/secure_registration.py)
-- [Cybersecurity.md] (Q1/Cybersecurity.md)
-- [blablabla] (link here)
+- [Cybersecurity.md]
+(Q1/Cybersecurity.md) 
+
 
 ## 2nd Quarter
 - [Project 1](https://github.com/yourusername/repo/blob/main/q2/project1.py)
