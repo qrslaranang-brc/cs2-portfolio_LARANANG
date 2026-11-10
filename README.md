@@ -1,6 +1,4 @@
-# Computer Science 2 Portfolio
-# Qien Rafhael S. Laranang
-# 8- Dahlia
+# CS2_Portfolio_LARANANG (8 - Dahlia)
 (1st Quarter Programming Activities)
 - [Project 1](https://github.com/yourusername/repo/blob/main/q1/project1.py)
 - [Project 2](https://github.com/yourusername/repo/blob/main/q1/project2.py)
