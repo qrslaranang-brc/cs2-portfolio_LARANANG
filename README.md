@@ -1,4 +1,4 @@
-# CS2_Portfolio_LARANANG (8 - Dahlia)
+# cs2_Portfolio_LARANANG
 (1st Quarter Programming Activities)
 - [Project 1](https://github.com/yourusername/repo/blob/main/q1/project1.py)
 - [Project 2](https://github.com/yourusername/repo/blob/main/q1/project2.py)
