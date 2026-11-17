@@ -24,4 +24,16 @@ for number in range(1, 16):
 
 
 # exceecise 4
+def show_table(number):
+    print(f"\nMultiplication Table for {number}:")
+    
+    for i in range(1, 11):
+       
+        print(f"{number} x {i} = {number * i}")
+
+
+user_number = int(input("Enter a number: "))
+
+show_table(user_number)
+
 
