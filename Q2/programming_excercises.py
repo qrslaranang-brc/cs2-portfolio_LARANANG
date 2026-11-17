@@ -12,3 +12,16 @@ while count > 0:
 
 print("Time is up!")
 
+# excercise 3
+for number in range(1, 16):
+    
+    if number % 3 == 0:
+        
+        continue
+    
+    print(number)
+
+
+
+# exceecise 4
+
