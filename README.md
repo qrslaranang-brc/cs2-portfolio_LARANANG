@@ -13,4 +13,4 @@
 - [Canteen Purchase Calculator (PA1-Q2)](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/be405640ac0d884fc1895cefcf78e20eb2f450f5/Q2/Canteen%20Purchase%20Calculator)
 - [Student Performance Evaluator (PA2-Q2)](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/08bdb935c32fd8461d30effb53a3c8488cf647a8/Q2/Student%20Performance%20Evaluator)
 - [Programming Exercises (PA3-Q2)](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/962b05b14ac1ffdca235b8c01145378d6269e3fa/Q2/programming_excercises.py)
-
+-[Programming Exercises (PA3.1-Q2)](https://github.com/qrslaranang-brc/cs2-portfolio_LARANANG/blob/8dc33a7840f3d52508f900e7d71c7e09d42124c1/Q2/programming_exercises.md)
